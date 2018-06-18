@@ -52,3 +52,8 @@ No, not really.
 Conclusion: When running Pyramid with guniorn on Heroku, you should set
 *the last IP* in `request.client_addr` as `request.client_addr` so that all code
 that relies on having user's IP works.
+
+## We're hiring!
+
+At Niteo we regularly contribute back to the Open Source community. If you do too, we'd like to invite you to [join our team](https://niteo.co/careers)!
+¸
